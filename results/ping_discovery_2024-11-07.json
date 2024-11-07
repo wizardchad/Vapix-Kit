@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2024-11-01T10:15:30Z",
+        "ip_address": "192.168.1.10",
+        "ping_status": "reachable",
+        "response_time_ms": 12
+    },
+    {
+        "timestamp": "2024-11-01T10:15:30Z",
+        "ip_address": "192.168.1.15",
+        "ping_status": "unreachable",
+        "response_time_ms": null
+    },
+    {
+        "timestamp": "2024-11-01T10:15:30Z",
+        "ip_address": "192.168.1.20",
+        "ping_status": "reachable",
+        "response_time_ms": 25
+    }
+]
